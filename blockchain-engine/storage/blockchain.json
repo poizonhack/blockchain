@@ -1,0 +1,1 @@
+{"difficulty":2,"chain":[{"timestamp":1557588044595,"previous_hash":"0","transactions":[],"nonce":100,"hash":"00710f37159bb47b139cbc302d0c574d812ddbc11d73bfe8224d08f5477318b3"}],"pending_transactions":[],"mining_reward":10,"nodes":[{"node_url":"http://localhost:3001"},{"node_url":"http://localhost:3002"}]}
